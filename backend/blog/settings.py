@@ -80,7 +80,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'blog.wsgi.application'
 
-APPEND_SLASH = False
+# APPEND_SLASH = False
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
