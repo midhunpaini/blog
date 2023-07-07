@@ -1,0 +1,40 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the virtual environment directory
+blogenv/
+
+# Ignore local development settings
+settings_local.py
+
+# Ignore database files
+*.db
+*.sqlite3
+
+# Ignore static files directory
+/static/
+
+# Ignore media files directory
+/media/
+
+# Ignore log files
+*.log
+
+# Ignore cache directories
+__pycache__/
+.cache/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore environment configuration files
+.env
+
+# Ignore deployment-related files
+.deploy/
+
+# Ignore backup files
+*.bak
+*.swp
+*~
